@@ -1,0 +1,23 @@
+{
+    "numeroDaNota": "012554124512",
+    "cnpjDoEmissor": "012.226/0001-43",
+    "listaProdutos": [
+        {
+            "nome":"Camisa do Vasco",
+            "preco": 120
+        },
+        {
+            "nome":"Camisa do Flamengo",
+            "preco": 150
+        },
+        {
+            "nome":"Camisa Retrô",
+            "preco":120,
+            "tipos":[
+                {"original":true,"preco":170},
+                {"original":false,"preco":120}
+            ]
+        }
+    ],
+    "valorTotal": 390
+}
